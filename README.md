@@ -19,6 +19,11 @@ San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y S
 Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.<br><br>
 DICCIONARIO DE DATOS
 
+LIMPIEZA DE DATOS
+Eliminacion de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dolar,Corrección de valores de la columna Distritos,  
+
+ELABORACIÓN DEL DASHBOARD
+
 ANALYTICAL TASKS
 
 >Para el análisis nos planteamos las siguientes tareas con sus respectivas preguntas respondiendo cada una de estas, cada proceso que fue elaborado se utiliza los atributos  del dataset para el desarrollo de cada una de ellas.<br>
