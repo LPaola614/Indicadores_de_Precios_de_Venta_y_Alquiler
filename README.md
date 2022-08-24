@@ -37,7 +37,17 @@ ANALYTICAL TASKS
 - Analizar los precios de los departamentos por los años de antigüedad<br>
 
 PREGUNTAS 
-  - ¿En qué años los precios de los departamentos se elevaron?<br> paola_venta
+  - ¿En qué años los precios de los departamentos se elevaron?<br>
+  	Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron 
+en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler,
+ en los años 2018 y 2019 se ve un incremento muy elevado  aproximadamente un promedio de s/ 728,401,099.000, 
+en los distritos de San Isidro, además la visita del papa a nuestro país tuvo un impacto económico 
+durante su gira, las cifras que se estiman se elevó. Luego que el vicepresidente Martín Vizcarra
+ asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación 
+Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años 
+siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero.
+ Esta es un de las causas, porque el incremento de las ventas superan al año 2017, Cabe mencionar que
+los precios de los departamentos se han mantenido relativamente estables.
   - ¿En qué años los precios de los departamentos disminuyeron?<br> alex
   - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>paola-venta
   - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>alex-alquiler
