@@ -24,7 +24,7 @@ PREPROCESAMIENTO DE DATOS
 
 ELABORACIÓN DEL DASHBOARD
 
-[Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
 
 ANALYTICAL TASKS
 
@@ -43,24 +43,36 @@ PREGUNTAS
 Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler, en los años 2016 y 2018 se ve un incremento muy elevado  aproximadamente un promedio de s/11,258,038.00 en los distritos de San Isidro.
  Esta es una de las causas, porque el incremento de las ventas superan al año 2017 que fueron de  s/ 8,953,041.00, Cabe mencionar que los precios de los departamentos se han mantenido relativamente estables.
 En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de hace dos años, informó el Instituto Nacional de Estadística e Informática(INE). Cabe recalcar que el PBI peruano creció 2.39% en 2014 y 3.26% en 2015, reportando que la economía creció en el sector de Alojamiento un 2.57%. En el año 2018 el precio del dólar para afines se incrementó un 96.73%, por el tipo de cambio que autorizó la senda alcista de la reforma tributaria en EE.UU. Es por ello que se generó esa incertidumbre sobre el alza de tasas. Es por ello que para inicios del 2019 disminuye un s/ 5,826,366.00 en el distrito de San Isidro.
-
+![Dashboard]()
   - ¿En qué años los precios de los departamentos disminuyeron?<br> alex
+![Dashboard]()
   - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>paola-venta
+![Dashboard]()
  De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.
- 
+![Dashboard]()
   - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>alex-alquiler
+![Dashboard]()
   - ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> alex
+![Dashboard]()
   - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> alex
+![Dashboard]()
   - ¿En qué trimestre del año los precios de ventas y alquileres de los departamentos presentaron incrementos o disminuyeron?<br> paola
+![Dashboard]()
   - ¿Cuál es el comportamiento de los precios según los distritos y cuales son los distritos con los mayores precios?<br> paola
-
+![Dashboard]()
 
   - ¿Cuál es el precio promedio de la venta de un departamento por metro cuadrado?<br> ALEX
+![Dashboard]()
   - ¿Cuál es el precio anual de alquiler y ventas por metro cuadrado?<br>ALEX
+![Dashboard]()
   - ¿En qué porcentaje el número de habitaciones influyen en el precio de alquiler o venta de un departamento?<br>ALEX
+![Dashboard]()
   - ¿En qué porcentaje las vistas influyen en el precio de alquiler o venta de un departamento?<br>  PAOLA
+![Dashboard]()
   - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>PAOLA
+![Dashboard]()
   - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por los años de antigüedad?<br>PAOLA
+![Dashboard]()
 
 CONCLUCIONES
 
