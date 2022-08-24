@@ -41,8 +41,7 @@ PREGUNTAS
   	Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron 
 en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler,
  en los años 2018 y 2019 se ve un incremento muy elevado  aproximadamente un promedio de s/ 728,401,099.000, 
-en los distritos de San Isidro, además la visita del papa a nuestro país tuvo un impacto económico 
-durante su gira, las cifras que se estiman se elevó. Luego que el vicepresidente Martín Vizcarra
+en los distritos de San Isidro. Luego que el vicepresidente Martín Vizcarra
  asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación 
 Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años 
 siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero.
