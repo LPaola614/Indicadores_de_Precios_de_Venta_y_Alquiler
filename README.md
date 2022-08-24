@@ -49,10 +49,9 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 ![Dashboard]()
  De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)
-
-  - ¿En qué trimestre del año los precios de ventas y alquileres de los departamentos presentaron incrementos o disminuyeron?<br> paola
-![Dashboard]()
   - ¿Cuál es el comportamiento de los precios según los distritos y cuales son los distritos con los mayores precios?<br> paola
+![Dashboard]()
+De acuerdo al índice de precios en ventas se estimó con todas sus características principales como superficie, número de habitaciones,número de baños, si tiene cochera o no, años de antigüedad y cuantas vistas tiene, de acuerdo a esa construcción de datos vemos los precios a través de un promedio ponderado de los índices obtenidos de cada distrito, visualizamos que el comportamiento de distritos según los precios es de manera decreciente siendo San Isidro con mayor cantidad de ventas con una desviación estándar de s/70 987.15 con Miraflores. En el distrito Bellavista se puede observar que los departamentos son más económicos que San Isidro y Miraflore con un valor máximo en venta de s/710,702
 ![Dashboard]()
 
   - ¿En qué años los precios de los departamentos disminuyeron?<br> alex
