@@ -24,6 +24,8 @@ PREPROCESAMIENTO DE DATOS
 
 ELABORACIÓN DEL DASHBOARD
 
+[Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
+
 ANALYTICAL TASKS
 
 >Para el análisis nos planteamos las siguientes tareas con sus respectivas preguntas respondiendo cada una de estas, cada proceso que fue elaborado se utiliza los atributos  del dataset para el desarrollo de cada una de ellas.<br>
