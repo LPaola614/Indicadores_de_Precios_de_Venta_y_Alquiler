@@ -54,6 +54,8 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)<br>
 
+<hr>
+
 - ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)<br>
   - Mayor precio:<br>
@@ -63,30 +65,50 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
   Pueblo Libre, Breña, Carabayllo y Bellavista<br>
  
   ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)<br>
+  
+<hr>
+
 - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
 
 Tiene una tendencia creciente, donde uno de los factores que influyó es la pandemia, donde mucha gente debido a las restricciones establecidas por el gobierno, estuvo obligada a quedarse en los lugares donde se encontraban, y el tipo de cambio del dólar continuó incrementando.<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)<br>
+
+<hr>
+
 - ¿Por qué los precios de los alquileres incrementaron en el 2018?<br> 
 
 Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago de surco, Jesús María, entre otros.<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202018.png)<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20trimestre%202018.png)<br> 
+
+<hr>
+
 - ¿Por qué el precio de los alquileres se incrementaron en el 2020?<br> 
 
 El precio de los alquileres de los departamentos subió debido al inicio de la pandemia y al incremento del dólar.<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/tipo%20de%20cambio%20por%20a%C3%B1o.png)<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)<br>
+
+<hr>
+
 - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
 
 Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magdalena<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202019.png)<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202020.png)<br> 
-  - ¿Cuál es el precio promedio de la venta de un departamento?<br> 
+ 
+<hr>
+
+ - ¿Cuál es el precio promedio de la venta de un departamento?<br> 
  
  El precio promedio de un departamento es de s/ 548.18 mil<br>
+ 
+<hr>
+
   - ¿Cuál es el precio promedio de alquiler de un departamento?<br>
  El precio promedio de un departamento es de s/ 2.81 mil<br>
+
+<hr>
 
   - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>
  
