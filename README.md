@@ -1,7 +1,7 @@
 # INDICADORES DE PRECIOS DE ALQUILER Y VENTA DE DEPARTAMENTOS 
 >El proyecto profesional indica las funciones de la tabla están siendo analizadas previamente antes de su desarrollo y representadas en un dashboard para los procesos de venta y alquiler de departamentos, para el análisis se toma como referencia el dataset del BCRP que realiza el seguimiento de la evolución de imobiliarios desde 1998 hasta la actualidad. El objetivo principal es analizar la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<br>
 <br>
-DESCRIPCIÓN DEL PROBLEMA
+<h2>DESCRIPCIÓN DEL PROBLEMA</h2>
 
 >El derecho a una vivienda adecuada es más amplio que el derecho a la propiedad, puesto que contempla derechos no vinculados con la propiedad y tiene como fin asegurar que todas las personas, incluidas las que no son propietarias, tengan un lugar seguro para vivir en paz y dignidad.
 Por ello se observó que en la provincia de Lima el 72% no cuentan con vivienda propia, los factores que influyen en esto son escasos recursos económicos y falta de información de lugares más accesibles con buenas condiciones según su presupuesto.
@@ -17,15 +17,15 @@ El problema principal a analizar es la falta de información sobre los precios p
 San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.
 Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.<br><br>
 
-<h2>DICCIONARIO DE DATOS<br></h2>
+<h2>DICCIONARIO DE DATOS</h2>
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tabla_Datos.PNG)<br>
 
-PREPROCESAMIENTO DE DATOS
+<h2>PREPROCESAMIENTO DE DATOS</h2>
 
 Eliminación de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dólar y corrección de valores de la columna Distritos.
 
-ELABORACIÓN DEL DASHBOARD
+<h2>ELABORACIÓN DEL DASHBOARD</h2>
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
 
@@ -47,7 +47,9 @@ Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas person
  Esta es una de las causas, porque el incremento de las ventas superan al año 2017 que fueron de  s/ 8,953,041.00, Cabe mencionar que los precios de los departamentos se han mantenido relativamente estables.
 En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de hace dos años, informó el Instituto Nacional de Estadística e Informática(INE). Cabe recalcar que el PBI peruano creció 2.39% en 2014 y 3.26% en 2015, reportando que la economía creció en el sector de Alojamiento un 2.57%. En el año 2018 el precio del dólar para afines se incrementó un 96.73%, por el tipo de cambio que autorizó la senda alcista de la reforma tributaria en EE.UU. Es por ello que se generó esa incertidumbre sobre el alza de tasas. Es por ello que para inicios del 2019 disminuye un s/ 5,826,366.00 en el distrito de San Isidro.
 
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/en_que%20a%C3%B1o__se_elevo.PNG)
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/pregunta1_2016.png)<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Pregunta1_2018.png)<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/pregunta1_2017.png)<br>
 
  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
