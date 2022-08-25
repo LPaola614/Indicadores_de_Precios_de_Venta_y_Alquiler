@@ -53,14 +53,19 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
 De acuerdo al índice de precios en ventas se estimó con todas sus características principales como superficie, número de habitaciones,número de baños, si tiene cochera o no, años de antigüedad y cuantas vistas tiene, de acuerdo a esa construcción de datos vemos los precios a través de un promedio ponderado de los índices obtenidos de cada distrito, visualizamos que el comportamiento de distritos según los precios es de manera decreciente siendo San Isidro con mayor cantidad de ventas con una desviación estándar de s/70 987.15 con Miraflores. En el distrito Bellavista se puede observar que los departamentos son más económicos que San Isidro y Miraflore con un valor máximo en venta de s/710,702
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Precio_Distritos.PNG)
-
-  - ¿En qué años los precios de los departamentos disminuyeron?<br> 
+- ¿Cuáles son los distritos con mayor y menor precio en alquileres?
+  - Mayor precio:<br>
+  San Isidro, Barranco, Santiago de Surco y San Borja
+  - Menor precio:<br>
+  Pueblo Libre, Breña, Carabayllo y Bellavista<br>
+  ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)
+- ¿En qué años los precios de los departamentos disminuyeron?<br> 
 ![Dashboard]()
-  - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
+- ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
 ![Dashboard]()
-  - ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> 
+- ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> 
 ![Dashboard]()
-  - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
+- ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
 ![Dashboard]()
 
 
