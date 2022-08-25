@@ -97,10 +97,7 @@ El precio promedio es de s/694.00 mil
 El precio promedio es de s/511.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_2.PNG)<br>
 CONCLUCIONES
-
-RECOMENDACIONES
->
-
-BIBLIOGRAFIA
->
-
+- La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar. 
+- La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.
+- La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.
+- La variación del precio de venta de los departamentos incrementa en relación a la ubicación, número de habitaciones, piso, superficie, entre otros, sin embargo, su - - valor tiende a devaluarse con el tiempo y con los acontecimientos que suceden en nuestro país, así como el dólar nuestra moneda llegó a devaluarse en los años 2012 hasta la actualidad.
