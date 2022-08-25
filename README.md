@@ -19,6 +19,7 @@ El problema principal a analizar es la falta de información sobre los precios p
 Eliminación de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dólar y corrección de valores de la columna Distritos.
 
 <h2>ELABORACIÓN DEL DASHBOARD</h2>
+
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
 
 <h2>ANALYTICAL TASKS</h2>
@@ -45,8 +46,9 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
-<p>De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.</p><br>
+<p>De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.</p>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)<br>
+
 - ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)<br>
   - Mayor precio:<br>
