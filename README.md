@@ -17,10 +17,14 @@ OBTENCION DE DATOS
 >Los datos se obtuvo del Banco Central de Reserva del Perú [(BCRP)](https://www.bcrp.gob.pe/estadisticas/indicador-de-precios-de-venta-de-departamentos.html), teniendo información desde 2010 haciendo seguimientos a la evaluación del mercado inmobiliario a través de indicadores de precios de alquiler y venta, los distritos de dónde se recaba la información y generan ingresos son de Barranco, la Molina, Miraflores, San Borja, 
 San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.
 Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.<br><br>
-DICCIONARIO DE DATOS
+
+DICCIONARIO DE DATOS<br>
+
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tabla_Datos.PNG)<br>
 
 PREPROCESAMIENTO DE DATOS
->Eliminacion de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dolar,Corrección de valores de la columna Distritos,  
+
+Eliminacion de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dolar y corrección de valores de la columna Distritos.
 
 ELABORACIÓN DEL DASHBOARD
 
@@ -43,7 +47,7 @@ PREGUNTAS
 Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler, en los años 2016 y 2018 se ve un incremento muy elevado  aproximadamente un promedio de s/11,258,038.00 en los distritos de San Isidro.
  Esta es una de las causas, porque el incremento de las ventas superan al año 2017 que fueron de  s/ 8,953,041.00, Cabe mencionar que los precios de los departamentos se han mantenido relativamente estables.
 En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de hace dos años, informó el Instituto Nacional de Estadística e Informática(INE). Cabe recalcar que el PBI peruano creció 2.39% en 2014 y 3.26% en 2015, reportando que la economía creció en el sector de Alojamiento un 2.57%. En el año 2018 el precio del dólar para afines se incrementó un 96.73%, por el tipo de cambio que autorizó la senda alcista de la reforma tributaria en EE.UU. Es por ello que se generó esa incertidumbre sobre el alza de tasas. Es por ello que para inicios del 2019 disminuye un s/ 5,826,366.00 en el distrito de San Isidro.
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/en_que%20a%C3%B1o__se_elevo.PNG)
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/en_que%20a%C3%B1o__se_elevo.PNG)<br>
 
   - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
