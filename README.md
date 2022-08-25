@@ -122,7 +122,10 @@ Piso de ubicación del primer nivel <br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_1.PNG)<br>
 Piso de ubicación del décimo nivel <br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_10.PNG)<br>
-  - ¿Cuál es el precio promedio de la venta de un departamento por los años de antigüedad?<br>
+ 
+<hr>
+
+ - ¿Cuál es el precio promedio de la venta de un departamento por los años de antigüedad?<br>
 
 El precio promedio es de s/694.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_1.PNG)<br>
@@ -130,6 +133,7 @@ El precio promedio es de s/511.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_2.PNG)<br>
 
 <h2>CONCLUCIÓN</h2>
+
  - La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar, como sucedió en el año 2012 con la caída del dólar.
  - La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.
  - La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.
