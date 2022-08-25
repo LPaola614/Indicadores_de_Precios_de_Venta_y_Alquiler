@@ -63,6 +63,8 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
  
   ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)<br>
 - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
+
+Tiene una tendencia creciente, donde uno de los factores que influyó es la pandemia, donde mucha gente debido a las restricciones establecidas por el gobierno, estuvo obligada a quedarse en los lugares donde se encontraban, y el tipo de cambio del dólar continuó incrementando.<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)<br>
 - ¿Por qué los precios de los alquileres incrementaron en el 2018?<br> 
 
