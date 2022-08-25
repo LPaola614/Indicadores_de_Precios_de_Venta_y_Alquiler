@@ -83,7 +83,7 @@ Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago
 
 <hr>
 
-- ¿Por qué el precio de los alquileres se incrementaron en el 2020?<br> 
+- ***¿Por qué el precio de los alquileres se incrementaron en el 2020?***<br> 
 
 El precio de los alquileres de los departamentos subió debido al inicio de la pandemia y al incremento del dólar.<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/tipo%20de%20cambio%20por%20a%C3%B1o.png)<br>
