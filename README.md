@@ -72,22 +72,27 @@ Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago
 Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magdalena
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202019.png)<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202020.png)<br> 
+  - ¿Cuál es el precio promedio de la venta de un departamento?<br> 
+ El precio promedio de un departamento es de s/ 548.18 mil
+  - ¿Cuál es el precio promedio de alquiler de un departamento?<br>
+ El precio promedio de un departamento es de s/ 2.81 mil 
 
-
-
-  - ¿Cuál es el precio promedio de la venta de un departamento por metro cuadrado?<br> 
-![Dashboard]()
-  - ¿Cuál es el precio anual de alquiler y ventas por metro cuadrado?<br>
-![Dashboard]()
-  - ¿En qué porcentaje el número de habitaciones influyen en el precio de alquiler o venta de un departamento?<br>
-![Dashboard]()
-  - ¿En qué porcentaje las vistas influyen en el precio de alquiler o venta de un departamento?<br>  
-![Dashboard]()
   - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>
-![Dashboard]()
-  - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por los años de antigüedad?<br>
-![Dashboard]()
-
+ Alquiler
+ Piso de ubicación del primer nivel 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Primer_Piso.PNG)<br>
+Piso de ubicación del décimo nivel 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/piso_Alto.PNG)<br>
+Venta <br>
+Piso de ubicación del primer nivel 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_1.PNG)<br>
+Piso de ubicación del décimo nivel 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_10.PNG)<br>
+  - ¿Cuál es el precio promedio de la venta de un departamento por los años de antigüedad?<br>
+El precio promedio es de s/694.00 mil
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_1.PNG)<br>
+El precio promedio es de s/511.00 mil<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_2.PNG)<br>
 CONCLUCIONES
 
 >
