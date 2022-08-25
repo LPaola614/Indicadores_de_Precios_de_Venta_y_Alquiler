@@ -53,11 +53,14 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
 De acuerdo al índice de precios en ventas se estimó con todas sus características principales como superficie, número de habitaciones,número de baños, si tiene cochera o no, años de antigüedad y cuantas vistas tiene, de acuerdo a esa construcción de datos vemos los precios a través de un promedio ponderado de los índices obtenidos de cada distrito, visualizamos que el comportamiento de distritos según los precios es de manera decreciente siendo San Isidro con mayor cantidad de ventas con una desviación estándar de s/70 987.15 con Miraflores. En el distrito Bellavista se puede observar que los departamentos son más económicos que San Isidro y Miraflore con un valor máximo en venta de s/710,702
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Precio_Distritos.PNG)
-- ¿Cuáles son los distritos con mayor y menor precio en alquileres?
+- ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)
   - Mayor precio:<br>
   San Isidro, Barranco, Santiago de Surco y San Borja
+ ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distrito%20con%20valor%20alto%20de%20alquiler.png)
   - Menor precio:<br>
   Pueblo Libre, Breña, Carabayllo y Bellavista<br>
+ 
   ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)
 - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)
@@ -67,9 +70,10 @@ Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20trimestre%202018.png)<br> 
 - ¿Por qué el precio de los alquileres se incrementaron en el 2020?<br> 
 - El precio de los alquileres de los departamentos subió debido al inicio de la pandemia y al incremento del dólar.<br> 
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/tipo%20de%20cambio%20por%20a%C3%B1o.png)<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)<br>
 - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
-Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magdalena
+Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magdalena<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202019.png)<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202020.png)<br> 
   - ¿Cuál es el precio promedio de la venta de un departamento?<br> 
