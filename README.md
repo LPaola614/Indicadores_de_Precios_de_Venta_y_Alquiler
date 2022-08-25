@@ -47,22 +47,19 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
   - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
- De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)
-  - ¿Cuál es el comportamiento de los precios según los distritos y cuales son los distritos con los mayores precios?<br> 
-De acuerdo al indice de precios en ventas se estimo con todas sus caracteristicas principales como superficie, numero de habitaciones,numero de baños, si tiene cochera o no, años de antiguad y cuantas vistas tiene, de acuerdo a esa contruccion de datos vemos los precios a traves de un promedio ponderado de los indices obtenidos de cada distrito, visualizamos que el comportamiento de distritos segun los precios es de manera decreciente siendo san Isidro con mayor cantidad de precios con s/11,143,715.00. 
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Precio_Distritos.PNG)
-- ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)
+ De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)<br>
+- ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?<br>
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)<br>
   - Mayor precio:<br>
-  San Isidro, Barranco, Santiago de Surco y San Borja
- ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distrito%20con%20valor%20alto%20de%20alquiler.png)
+  San Isidro, Barranco, Santiago de Surco y San Borja<br>
+ ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distrito%20con%20valor%20alto%20de%20alquiler.png)<br>
   - Menor precio:<br>
   Pueblo Libre, Breña, Carabayllo y Bellavista<br>
  
-  ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)
+  ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)<br>
 - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)<br>
 - ¿Por qué los precios de los alquileres incrementaron en el 2018?<br> 
 Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago de surco, Jesús María, entre otros.<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202018.png)<br> 
@@ -76,28 +73,28 @@ Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magda
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202019.png)<br> 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202020.png)<br> 
   - ¿Cuál es el precio promedio de la venta de un departamento?<br> 
- El precio promedio de un departamento es de s/ 548.18 mil
+ El precio promedio de un departamento es de s/ 548.18 mil<br>
   - ¿Cuál es el precio promedio de alquiler de un departamento?<br>
- El precio promedio de un departamento es de s/ 2.81 mil 
+ El precio promedio de un departamento es de s/ 2.81 mil<br>
 
   - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>
- Alquiler
- Piso de ubicación del primer nivel 
+ Alquiler<br>
+ Piso de ubicación del primer nivel<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Primer_Piso.PNG)<br>
-Piso de ubicación del décimo nivel 
+Piso de ubicación del décimo nivel <br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/piso_Alto.PNG)<br>
 Venta <br>
-Piso de ubicación del primer nivel 
+Piso de ubicación del primer nivel <br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_1.PNG)<br>
-Piso de ubicación del décimo nivel 
+Piso de ubicación del décimo nivel <br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Venta_Piso_10.PNG)<br>
   - ¿Cuál es el precio promedio de la venta de un departamento por los años de antigüedad?<br>
-El precio promedio es de s/694.00 mil
+El precio promedio es de s/694.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_1.PNG)<br>
 El precio promedio es de s/511.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_2.PNG)<br>
-CONCLUCIONES
-- La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar. 
-- La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.
-- La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.
-- La variación del precio de venta de los departamentos incrementa en relación a la ubicación, número de habitaciones, piso, superficie, entre otros, sin embargo, su - - valor tiende a devaluarse con el tiempo y con los acontecimientos que suceden en nuestro país, así como el dólar nuestra moneda llegó a devaluarse en los años 2012 hasta la actualidad.
+CONCLUCIONES<br>
+- La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar.<br> 
+- La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.<br>
+- La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.<br>
+- La variación del precio de venta de los departamentos incrementa en relación a la ubicación, número de habitaciones, piso, superficie, entre otros, sin embargo, su - - valor tiende a devaluarse con el tiempo y con los acontecimientos que suceden en nuestro país, así como el dólar nuestra moneda llegó a devaluarse en los años 2012 hasta la actualidad.<br>
