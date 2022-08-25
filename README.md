@@ -24,7 +24,7 @@ DICCIONARIO DE DATOS<br>
 
 PREPROCESAMIENTO DE DATOS
 
-Eliminacion de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dolar y corrección de valores de la columna Distritos.
+Eliminación de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dólar y corrección de valores de la columna Distritos.
 
 ELABORACIÓN DEL DASHBOARD
 
