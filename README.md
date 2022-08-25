@@ -46,6 +46,8 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Pregunta1_2018.png)<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/pregunta1_2017.png)<br>
 
+<hr>
+
  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
 <p>De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.</p>
