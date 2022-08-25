@@ -45,38 +45,38 @@ Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas person
 En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de hace dos años, informó el Instituto Nacional de Estadística e Informática(INE). Cabe recalcar que el PBI peruano creció 2.39% en 2014 y 3.26% en 2015, reportando que la economía creció en el sector de Alojamiento un 2.57%. En el año 2018 el precio del dólar para afines se incrementó un 96.73%, por el tipo de cambio que autorizó la senda alcista de la reforma tributaria en EE.UU. Es por ello que se generó esa incertidumbre sobre el alza de tasas. Es por ello que para inicios del 2019 disminuye un s/ 5,826,366.00 en el distrito de San Isidro.
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/en_que%20a%C3%B1o__se_elevo.PNG)
 
-  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>paola-venta
-![Dashboard]()
+  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
+
  De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)
-  - ¿Cuál es el comportamiento de los precios según los distritos y cuales son los distritos con los mayores precios?<br> paola
+  - ¿Cuál es el comportamiento de los precios según los distritos y cuales son los distritos con los mayores precios?<br> 
 
 De acuerdo al índice de precios en ventas se estimó con todas sus características principales como superficie, número de habitaciones,número de baños, si tiene cochera o no, años de antigüedad y cuantas vistas tiene, de acuerdo a esa construcción de datos vemos los precios a través de un promedio ponderado de los índices obtenidos de cada distrito, visualizamos que el comportamiento de distritos según los precios es de manera decreciente siendo San Isidro con mayor cantidad de ventas con una desviación estándar de s/70 987.15 con Miraflores. En el distrito Bellavista se puede observar que los departamentos son más económicos que San Isidro y Miraflore con un valor máximo en venta de s/710,702
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Precio_Distritos.PNG)
 
-  - ¿En qué años los precios de los departamentos disminuyeron?<br> alex
+  - ¿En qué años los precios de los departamentos disminuyeron?<br> 
 ![Dashboard]()
-  - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>alex-alquiler
+  - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
 ![Dashboard]()
-  - ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> alex
+  - ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> 
 ![Dashboard]()
-  - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> alex
+  - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
 ![Dashboard]()
 
 
 
 
-  - ¿Cuál es el precio promedio de la venta de un departamento por metro cuadrado?<br> ALEX
+  - ¿Cuál es el precio promedio de la venta de un departamento por metro cuadrado?<br> 
 ![Dashboard]()
-  - ¿Cuál es el precio anual de alquiler y ventas por metro cuadrado?<br>ALEX
+  - ¿Cuál es el precio anual de alquiler y ventas por metro cuadrado?<br>
 ![Dashboard]()
-  - ¿En qué porcentaje el número de habitaciones influyen en el precio de alquiler o venta de un departamento?<br>ALEX
+  - ¿En qué porcentaje el número de habitaciones influyen en el precio de alquiler o venta de un departamento?<br>
 ![Dashboard]()
-  - ¿En qué porcentaje las vistas influyen en el precio de alquiler o venta de un departamento?<br>  PAOLA
+  - ¿En qué porcentaje las vistas influyen en el precio de alquiler o venta de un departamento?<br>  
 ![Dashboard]()
-  - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>PAOLA
+  - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por piso de ubicación?<br>
 ![Dashboard]()
-  - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por los años de antigüedad?<br>PAOLA
+  - ¿Cuál es el precio promedio de la venta y alquiler de un departamento por los años de antigüedad?<br>
 ![Dashboard]()
 
 CONCLUCIONES
