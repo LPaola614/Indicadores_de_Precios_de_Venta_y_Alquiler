@@ -1,22 +1,16 @@
 <h1>INDICADORES DE PRECIOS DE ALQUILER Y VENTA DE DEPARTAMENTOS</h1>
 <p> El proyecto profesional indica las funciones de la tabla están siendo analizadas previamente antes de su desarrollo y representadas en un dashboard para los procesos de venta y alquiler de departamentos, para el análisis se toma como referencia el dataset del BCRP que realiza el seguimiento de la evolución de imobiliarios desde 1998 hasta la actualidad. El objetivo principal es analizar la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.</p><br>
-<br>
 <h2>DESCRIPCIÓN DEL PROBLEMA</h2>
-
 <p>El derecho a una vivienda adecuada es más amplio que el derecho a la propiedad, puesto que contempla derechos no vinculados con la propiedad y tiene como fin asegurar que todas las personas, incluidas las que no son propietarias, tengan un lugar seguro para vivir en paz y dignidad.
 Por ello se observó que en la provincia de Lima el 72% no cuentan con vivienda propia, los factores que influyen en esto son escasos recursos económicos y falta de información de lugares más accesibles con buenas condiciones según su presupuesto.
 El problema principal a analizar es la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<p><br>
 <br>
 <h2>OBJETIVO</h2>
-
->Analizar e investigar las causas que influyen en los precios de alquiler y venta de departamentos en los distritos de Lima.<br>
-<br>
+<p>Analizar e investigar las causas que influyen en los precios de alquiler y venta de departamentos en los distritos de Lima.<br>
+</p>
 <h2>OBTENCIÓN DE DATOS</h2>
-
->Los datos se obtuvo del Banco Central de Reserva del Perú [(BCRP)](https://www.bcrp.gob.pe/estadisticas/indicador-de-precios-de-venta-de-departamentos.html), teniendo información desde 2010 haciendo seguimientos a la evaluación del mercado inmobiliario a través de indicadores de precios de alquiler y venta, los distritos de dónde se recaba la información y generan ingresos son de Barranco, la Molina, Miraflores, San Borja, 
-San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.
-Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.<br><br>
-
+<p>Los datos se obtuvo del Banco Central de Reserva del Perú [(BCRP)](https://www.bcrp.gob.pe/estadisticas/indicador-de-precios-de-venta-de-departamentos.html), teniendo información desde 2010 haciendo seguimientos a la evaluación del mercado inmobiliario a través de indicadores de precios de alquiler y venta, los distritos de dónde se recaba la información y generan ingresos son de Barranco, la Molina, Miraflores, San Borja, San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.</p>
+<p>Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.</p><br>
 <h2>DICCIONARIO DE DATOS</h2>
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tabla_Datos.PNG)<br>
@@ -31,7 +25,7 @@ Eliminación de outliers , limpieza de valores nulos, inserción de una nueva co
 
 <h2>ANALYTICAL TASKS</h2>
 
->Para el análisis nos planteamos las siguientes tareas con sus respectivas preguntas respondiendo cada una de estas, cada proceso que fue elaborado se utiliza los atributos  del dataset para el desarrollo de cada una de ellas.<br>
+<p>Para el análisis nos planteamos las siguientes tareas con sus respectivas preguntas respondiendo cada una de estas, cada proceso que fue elaborado se utiliza los atributos  del dataset para el desarrollo de cada una de ellas.<br>
 - Analizar los precios de los departamentos por años<br>
 - Analizar los precios de los departamentos por trimestres<br> 
 - Analizar los precios de los departamentos por distritos<br> 
@@ -40,7 +34,7 @@ Eliminación de outliers , limpieza de valores nulos, inserción de una nueva co
 - Analizar los precios de los departamentos por vista<br>
 - Analizar los precios de los departamentos por el número de piso de ubicación<br>
 - Analizar los precios de los departamentos por los años de antigüedad<br>
-
+</p>
 <h2>PREGUNTAS</h2> 
 - ¿En qué años los precios de los departamentos se elevaron?<br>
 Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler, en los años 2016 y 2018 se ve un incremento muy elevado  aproximadamente un promedio de s/11,258,038.00 en los distritos de San Isidro.
@@ -53,7 +47,7 @@ En el año 2016 la economía peruana incrementó un 3.9 % , nivel superior al de
 
  - ¿Qué tipo de tendencia representan los precios de venta desde el 2010 al 2020?¿Por qué?<br>
 
- De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.<br>
+<p>De acuerdo al índice de precios en soles corrientes por año, los precios de ventas de los departamentos de Lima Metropolitana tuvieron un comportamiento creciente entre los inicios de 2010  y fines de 2019, el promedio anual del PER en Lima aumentó continuamente.  Luego que el vicepresidente Martín Vizcarra asume la presidencia, el congreso establece permanentemente el régimen especial de Jubilación Anticipada para que personas  desempleadas afiliadas a una AFP puedan jubilarse a los 55 años siendo en abril del 2019, muchas personas fueron a retirar sus ahorros para poder disponer del dinero, incrementando así el precio de muchos servicios como el de alojamiento, es por ello que el precio de  ventas de los  departamentos se incrementó un 6.23%.</p><br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tendencias_2010_2020.PNG)<br>
 - ¿Cuál es el porcentaje de ofertas por distrito? y ¿Cuáles son los distritos con mayor y menor precio en alquileres?<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/ofertas%20de%20alquiler%20por%20distritos.png)<br>
