@@ -7,17 +7,17 @@ DESCRIPCIÓN DEL PROBLEMA
 Por ello se observó que en la provincia de Lima el 72% no cuentan con vivienda propia, los factores que influyen en esto son escasos recursos económicos y falta de información de lugares más accesibles con buenas condiciones según su presupuesto.
 El problema principal a analizar es la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<br>
 <br>
-OBJETIVO
+<h2>OBJETIVO</h2>
 
 >Analizar e investigar las causas que influyen en los precios de alquiler y venta de departamentos en los distritos de Lima.<br>
 <br>
-OBTENCIÓN DE DATOS
+<h2>OBTENCIÓN DE DATOS</h2>
 
 >Los datos se obtuvo del Banco Central de Reserva del Perú [(BCRP)](https://www.bcrp.gob.pe/estadisticas/indicador-de-precios-de-venta-de-departamentos.html), teniendo información desde 2010 haciendo seguimientos a la evaluación del mercado inmobiliario a través de indicadores de precios de alquiler y venta, los distritos de dónde se recaba la información y generan ingresos son de Barranco, la Molina, Miraflores, San Borja, 
 San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.
 Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.<br><br>
 
-DICCIONARIO DE DATOS<br>
+<h2>DICCIONARIO DE DATOS<br></h2>
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tabla_Datos.PNG)<br>
 
@@ -29,7 +29,7 @@ ELABORACIÓN DEL DASHBOARD
 
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
 
-ANALYTICAL TASKS
+<h2>ANALYTICAL TASKS</h2>
 
 >Para el análisis nos planteamos las siguientes tareas con sus respectivas preguntas respondiendo cada una de estas, cada proceso que fue elaborado se utiliza los atributos  del dataset para el desarrollo de cada una de ellas.<br>
 - Analizar los precios de los departamentos por años<br>
@@ -41,7 +41,7 @@ ANALYTICAL TASKS
 - Analizar los precios de los departamentos por el número de piso de ubicación<br>
 - Analizar los precios de los departamentos por los años de antigüedad<br>
 
-PREGUNTAS 
+<h2>PREGUNTAS</h2> 
   - ¿En qué años los precios de los departamentos se elevaron?<br>
 Debido a muchos factores que ha transcurrido a lo largo del tiempo muchas personas optaron en la venta de un departamento, teniendo en cuenta que los precios son más elevados que un alquiler, en los años 2016 y 2018 se ve un incremento muy elevado  aproximadamente un promedio de s/11,258,038.00 en los distritos de San Isidro.
  Esta es una de las causas, porque el incremento de las ventas superan al año 2017 que fueron de  s/ 8,953,041.00, Cabe mencionar que los precios de los departamentos se han mantenido relativamente estables.
