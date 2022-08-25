@@ -1,5 +1,4 @@
-# Indicadores_de_Precios_de_Venta_y_Alquiler
-INTRODUCCIÓN
+# INDICADORES DE PRECIOS DE ALQUILER Y VENTA DE DEPARTAMENTOS 
 >El proyecto profesional indica las funciones de la tabla están siendo analizadas previamente antes de su desarrollo y representadas en un dashboard para los procesos de venta y alquiler de departamentos, para el análisis se toma como referencia el dataset del BCRP que realiza el seguimiento de la evolución de imobiliarios desde 1998 hasta la actualidad. El objetivo principal es analizar la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<br>
 <br>
 DESCRIPCIÓN DEL PROBLEMA
