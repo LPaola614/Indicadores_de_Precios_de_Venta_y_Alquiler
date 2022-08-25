@@ -61,16 +61,17 @@ De acuerdo al índice de precios en ventas se estimó con todas sus característ
   ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/distritos%20con%20mayor%20y%20menor%20precio.png)
 - ¿Qué tipo de tendencia representan los precios de alquiler desde el 2010 al 2020?¿Por qué?<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)
-- ¿Por qué los precios de los alquileres incrementaron en el 2018?
+- ¿Por qué los precios de los alquileres incrementaron en el 2018?<br> 
 Debido a la visita del papa Francisco entre el 18 y 21 de enero de 2018 Santiago de surco, Jesús María, entre otros.<br>
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202018.png)
-<br> 
-![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20trimestre%202018.png)
-- ¿En el año 2020 la pandemia influenció en el precio de alquileres y ventas de departamentos?<br> 
-![Dashboard]()
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202018.png)<br> 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20trimestre%202018.png)<br> 
+- ¿Por qué el precio de los alquileres se incrementaron en el 2020?<br> 
+- El precio de los alquileres de los departamentos subió debido al inicio de la pandemia y al incremento del dólar.<br> 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20a%C3%B1os.png)
 - ¿En qué distritos la pandemia influenció en mayor medida respecto a los precios?<br> 
-![Dashboard]()
-
+Los distritos con mayores variaciones en cuanto a precios son: La Molina y Magdalena
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202019.png)<br> 
+![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/precio%20por%20distrito%202020.png)<br> 
 
 
 
