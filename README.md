@@ -3,8 +3,7 @@
 <h2>DESCRIPCIÓN DEL PROBLEMA</h2>
 <p>El derecho a una vivienda adecuada es más amplio que el derecho a la propiedad, puesto que contempla derechos no vinculados con la propiedad y tiene como fin asegurar que todas las personas, incluidas las que no son propietarias, tengan un lugar seguro para vivir en paz y dignidad.
 Por ello se observó que en la provincia de Lima el 72% no cuentan con vivienda propia, los factores que influyen en esto son escasos recursos económicos y falta de información de lugares más accesibles con buenas condiciones según su presupuesto.
-El problema principal a analizar es la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<p><br>
-<br>
+El problema principal a analizar es la falta de información sobre los precios para poder hacer una comparación si es más factible la compra, venta o alquiler de un departamento,  además debemos asumir que la mayoría de los clientes cuentan con un presupuesto limitado.<p>
 <h2>OBJETIVO</h2>
 <p>Analizar e investigar las causas que influyen en los precios de alquiler y venta de departamentos en los distritos de Lima.<br>
 </p>
@@ -12,7 +11,6 @@ El problema principal a analizar es la falta de información sobre los precios p
 <p>Los datos se obtuvo del Banco Central de Reserva del Perú [(BCRP)](https://www.bcrp.gob.pe/estadisticas/indicador-de-precios-de-venta-de-departamentos.html), teniendo información desde 2010 haciendo seguimientos a la evaluación del mercado inmobiliario a través de indicadores de precios de alquiler y venta, los distritos de dónde se recaba la información y generan ingresos son de Barranco, la Molina, Miraflores, San Borja, San Isidro, Surco, Jesús María, Lince, Magdalena, Pueblo Libre, San Miguel y Surquillo.</p>
 <p>Los archivos son “Datos desagregados-Venta” y  “Datos desagregados-Alquiler”.</p><br>
 <h2>DICCIONARIO DE DATOS</h2>
-
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Tabla_Datos.PNG)<br>
 
 <h2>PREPROCESAMIENTO DE DATOS</h2>
@@ -20,7 +18,6 @@ El problema principal a analizar es la falta de información sobre los precios p
 Eliminación de outliers , limpieza de valores nulos, inserción de una nueva columna llamado Tipo_Cambio del dólar y corrección de valores de la columna Distritos.
 
 <h2>ELABORACIÓN DEL DASHBOARD</h2>
-
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/dashboard.png?raw=true)
 
 <h2>ANALYTICAL TASKS</h2>
@@ -103,8 +100,8 @@ El precio promedio es de s/511.00 mil<br>
 ![Dashboard](https://github.com/LPaola614/Indicadores_de_Precios_de_Venta_y_Alquiler/blob/main/Proyecto_ADE/Antiguedad_2.PNG)<br>
 
 <h2>CONCLUCIÓN</h2><br>
+- La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar, como sucedió en el año 2012 con la caída del dólar.
+- La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.
+- La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.
+- La variación del precio de venta de los departamentos incrementa en relación a la ubicación, número de habitaciones, piso, superficie, entre otros, sin embargo, tiende a devaluarse con el tiempo y además se ve influenciado por los acontecimientos que suceden en nuestro país.
 
-- La venta de los departamentos es influenciada en gran medida por el tipo de cambio del dólar.<br> 
-- La crisis económica y política influye sobre el precio de los inmuebles ya que genera incertidumbre.<br>
-- La variación del precio de los alquileres es influenciada por acontecimientos o necesidades importantes en un determinado lugar.<br>
-- La variación del precio de venta de los departamentos incrementa en relación a la ubicación, número de habitaciones, piso, superficie, entre otros, sin embargo, su - - valor tiende a devaluarse con el tiempo y con los acontecimientos que suceden en nuestro país, así como el dólar nuestra moneda llegó a devaluarse en los años 2012 hasta la actualidad.<br>
